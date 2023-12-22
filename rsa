@@ -145,4 +145,4 @@ def main():
         print(f"File '{file_path}' not found.")
 
 if __name__ == '__main__':
-    main()  #
+    main()  # Call the main function when the script is executed
